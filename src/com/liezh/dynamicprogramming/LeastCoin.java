@@ -1,4 +1,4 @@
-package dynamicprogramming;
+package com.liezh.dynamicprogramming;
 
 import java.util.Arrays;
 
